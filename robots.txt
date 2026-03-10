@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://bao-casino-online.com/
+Sitemap: https://bao-casino-online.com/sitemap.xml

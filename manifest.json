@@ -1,0 +1,19 @@
+{
+  "name": "Bao Casino",
+  "short_name": "Bao Casino",
+  "theme_color": "",
+  "background_color": "#2E0B5A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773144886-favicon-55.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
